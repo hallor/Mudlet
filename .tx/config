@@ -1,0 +1,10 @@
+[main]
+host = https://www.transifex.com
+
+[mudlet.mudlet-en-ts]
+file_filter = translations/mudlet_<lang>.ts
+minimum_perc = 0
+source_file = translations/mudlet_en.ts
+source_lang = en_US
+type = QT
+
