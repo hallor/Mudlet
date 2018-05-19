@@ -6,7 +6,9 @@
         <source>Unpacking module:
 &quot;%1&quot;
 please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Распаковка модуля:
+&amp;quot;%1&amp;quot;
+пожалуйста, подождите...</translation>
     </message>
     <message>
         <location filename="../src/Host.cpp" line="818"/>
@@ -26,7 +28,7 @@ please wait...</source>
     <message>
         <location filename="../3rdparty/edbee-lib/edbee-lib/edbee/io/baseplistparser.cpp" line="55"/>
         <source>Start element not found!</source>
-        <translation type="unfinished"/>
+        <translation>Начальный элемент не найден!</translation>
     </message>
     <message>
         <location filename="../3rdparty/edbee-lib/edbee-lib/edbee/io/baseplistparser.cpp" line="67"/>
